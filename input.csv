@@ -1,0 +1,562 @@
+,long_name,short_name,short_loc,league,
+Arsenal FC,Arsenal FC,Arsenal,ARS,mls,Premier League
+Tottenham Hotspur,Tottenham Hotspur,Spurs,TOT,mls,Premier League
+San Antonio Scorpions FC,San Antonio Scorpions FC,Scorpions,SAS,mls,Premier League
+Aston Villa,Aston Villa,Villa,AVL,mls,Premier League
+Manchester United,Manchester United,Man Utd,MUN,mls,Premier League
+Manchester City,Manchester City,Man City,MCI,mls,Premier League
+Liverpool,Liverpool,Liverpool,LIV,mls,Premier League
+Chelsea,Chelsea,Chelsea,CHE,mls,Premier League
+Crystal Palace,Crystal Palace,Crystal Palace,CRY,mls,Premier League
+Burnley,Burnley,Burnley,BUR,mls,Premier League
+Everton,Everton,Everton,EVE,mls,Premier League
+Hull,Hull,Hull,HUL,mls,Premier League
+Leicester,Leicester,Leicester,LEI,mls,Premier League
+Newcastle,Newcastle,Newcastle,NEW,mls,Premier League
+Queen's Park Rangers,Queen's Park Rangers,,QPR,mls,Premier League
+Southampton,Southampton,Southamton,SOU,mls,Premier League
+Stoke,Stoke,Stoke,STK,mls,Premier League
+Sunderland,Sunderland,Sunderland,SUN,mls,Premier League
+Swansea,Swansea,Swansea,SWA,mls,Premier League
+West Brom,West Brom,West Brom,WBA,mls,Premier League
+West Ham,West Ham,West Ham,WHU,mls,Premier League
+Atlético de Madrid,Atlético de Madrid,,ATL,mls,La Liga
+Barcelona,Barcelona,Barcelona,BAR,mls,La Liga
+Real Madrid,Real Madrid,Real Madrid,RMD,mls,La Liga
+Athletic Club,Athletic Club,Athletic Club,ATH,mls,La Liga
+Sevilla,Sevilla,Sevilla,SEV,mls,La Liga
+Villareal,Villareal,Villareal,VIL,mls,La Liga
+Real Sociedad,Real Sociedad,Real Sociedad,RSO,mls,La Liga
+Valencia CF,Valencia CF,Valencia,VAL,mls,La Liga
+Celta de Vigo,Celta de Vigo,Celta,CEL,mls,La Liga
+Levante,Levante,Levante,LEV,mls,La Liga
+Málaga,Málaga,Málaga,MAG,mls,La Liga
+Rayo Vallecano,Rayo Vallecano,Rayo Vallecano,RAY,mls,La Liga
+Getafe,Getafe,Getafe,GET,mls,La Liga
+Espanyol,Espanyol,Espanyol,ESP,mls,La Liga
+Granada CF,Granada CF,Granada,GRA,mls,La Liga
+Elche,Elche,Elche,ELC,mls,La Liga
+Almería,Almería,Almería,ALM,mls,La Liga
+Osasuna,Osasuna,Osasuna,OSA,mls,La Liga
+Real Valladolid,Real Valladolid,Real Valladolid,VIL,mls,La Liga
+Real Betis,Real Betis,Real Betis,BET,mls,La Liga
+AC Milan,AC Milan,AC Milan,MIL,mls,Serie A
+Atalanta,Atalanta,Atalanta,ATA,mls,Serie A
+Cagliari,Cagliari,Cagliari,CAG,mls,Serie A
+Cesena,Cesena,Cesena,,mls,Serie A
+Chievo Verona,Chievo Verona,Chievo Verona,CHV,mls,Serie A
+Empoli,Empoli,Empoli,,mls,Serie A
+Fiorentina,Fiorentina,Fiorentina,FIO,mls,Serie A
+Genoa,Genoa,Genoa,GEN,mls,Serie A
+Internazionale,Internazionale,Internazionale,INT,mls,Serie A
+Juventus,Juventus,Juventus,JUV,mls,Serie A
+Lazio,Lazio,Lazio,LAZ,mls,Serie A
+Napoli,Napoli,Napoli,NAP,mls,Serie A
+Palermo,Palermo,Palermo,,mls,Serie A
+Parma,Parma,Parma,PMA,mls,Serie A
+AS Roma,AS Roma,AS Roma,ROM,mls,Serie A
+Sampdoria,Sampdoria,Sampdoria,SAM,mls,Serie A
+Sassuolo,Sassuolo,Sassuolo,SAS,mls,Serie A
+Torino,Torino,Torino,TOR,mls,Serie A
+Udinese,Udinese,Udinese,UDN,mls,Serie A
+Hellas Verona,Hellas Verona,Hellas Verona,VNA,mls,Serie A
+América,América,América,AME,mls,Liga MX
+Atlas,Atlas,Atlas,ATS,mls,Liga MX
+Chiapas,Chiapas,Chiapas,CHP,mls,Liga MX
+Cruz Azul,Cruz Azul,Cruz Azul,C A,mls,Liga MX
+Guadalajara,Guadalajara,Guadalajara,GUA,mls,Liga MX
+León,León,León,LEO,mls,Liga MX
+Monterrey,Monterrey,Monterrey,MON,mls,Liga MX
+Morelia,Morelia,Morelia,MOR,mls,Liga MX
+Pachuca,Pachuca,Pachuca,PAC,mls,Liga MX
+Puebla,Puebla,Puebla,PUE,mls,Liga MX
+Pumas UNAM,Pumas UNAM,Pumas,UNM,mls,Liga MX
+Querétaro,Querétaro,Querétaro,QUE,mls,Liga MX
+Santos Laguna,Santos Laguna,Santos Laguna,SAN,mls,Liga MX
+Tigres UANL,Tigres UANL,Tigres,TIG,mls,Liga MX
+Tijuana,Tijuana,Tijuana,TIJ,mls,Liga MX
+Toluca,Toluca,Toluca,TOL,mls,Liga MX
+Club Leones Negros de la Universidad de Guadalhara,Club Leones Negros de la Universidad de Guadalhara,Universidad de Guadalajara,UGD,mls,Liga MX
+AC Ajaccio,AC Ajaccio,AC Ajaccio,,,Ligue 1
+AS Monaco,AS Monaco,AS Monaco,,,Ligue 1
+ AS Saint-Étienne, AS Saint-Étienne, AS Saint-Étienne,,,Ligue 1
+EA Guingamp,EA Guingamp,EA Guingamp,,,Ligue 1
+Evian TG FC,Evian TG FC,Evian TG FC,,,Ligue 1
+FC Girondins de Bordeaux,FC Girondins de Bordeaux,,,,Ligue 1
+FC Lorient,FC Lorient,FC Lorient,,,Ligue 1
+FC Nantes,FC Nantes,FC Nantes,,,Ligue 1
+FC Sochaux-Montbéliard,FC Sochaux-Montbéliard,,,,Ligue 1
+Lille OSC,Lille OSC,Lille OSC,,,Ligue 1
+Montpellier Hérault SC,Montpellier Hérault SC,,,,Ligue 1
+OGC Nice,OGC Nice,OGC Nice,,,Ligue 1
+Olympique Lyonnais,Olympique Lyonnais,,,,Ligue 1
+Olympique de Marseille,Olympique de Marseille,,,,Ligue 1
+Paris Saint-Germain,Paris Saint-Germain,,,,Ligue 1
+SC Bastia,SC Bastia,SC Bastia,,,Ligue 1
+Stade Rennais,Stade Rennais,Stade Rennais,,,Ligue 1
+Stade de Reims,Stade de Reims,Stade de Reims,,,Ligue 1
+Toulouse,Toulouse,Toulouse,,,Ligue 1
+Valenciennes,Valenciennes,Valenciennes,,,Ligue 1
+Aalborg BK,Aalborg BK,Aalborg BK,,,UEFA Champions
+Anorthosis Famagusta,Anorthosis Famagusta,Anorthosis Famagusta,,,UEFA Champions
+BATE Borisov,BATE Borisov,BATE Borisov,,,UEFA Champions
+Besiktas,Besiktas,Besiktas,,,UEFA Champions
+CFR Cluj,CFR Cluj,CFR Cluj,,,UEFA Champions
+Dynamo Kiev,Dynamo Kiev,Dynamo Kiev,,,UEFA Champions
+FC Basel,FC Basel,FC Basel,,,UEFA Champions
+Bayern Munich,Bayern Munich,Bayern Munich,,,UEFA Champions
+FC Porto,FC Porto,FC Porto,,,UEFA Champions
+Fenerbahce,Fenerbahce,Fenerbahce,,,UEFA Champions
+Girdonins de Bordeau,Girdonins de Bordeau,Girdonins de Bordeau,,,UEFA Champions
+Olympique Lyonnais,Olympique Lyonnais,Olympique Lyonnais,,,UEFA Champions
+Panathinaikos,Panathinaikos,Panathinaikos,,,UEFA Champions
+Shakhtar Donetsk,Shakhtar Donetsk,Shakhtar Donetsk,,,UEFA Champions
+Sporting Portugal,Sporting Portugal,Sporting Portugal,,,UEFA Champions
+Steaua Bucharest,Steaua Bucharest,Steaua Bucharest,,,UEFA Champions
+Numancia,Numancia,Numancia,,,SEGUNDA 
+Deportivo La Coruña,Deportivo La Coruña,Deportivo La Coruña,,,SEGUNDA 
+Hercules CF,Hercules CF,Hercules CF,,,SEGUNDA 
+Mallorca,Mallorca,Mallorca,,,SEGUNDA 
+Racing Santander,Racing Santander,Racing Santander,,,SEGUNDA 
+Real Zaragoza,Real Zaragoza,Real Zaragoza,,,SEGUNDA 
+Recreativo Huelva,Recreativo Huelva,Recreativo Huelva,,,SEGUNDA 
+Sporting Gijon,Sporting Gijon,Sporting Gijon,,,SEGUNDA 
+Almerica,Almerica,Almerica,,,SEGUNDA 
+Xerez CD,Xerez CD,Xerez CD,,,SEGUNDA 
+Aberdeen,Aberdeen,Aberdeen,,,Scottish Premier
+Celtic,Celtic,Celtic,,,Scottish Premier
+Dundee United,Dundee United,Dundee United,,,Scottish Premier
+Hearts,Hearts,Hearts,,,Scottish Premier
+Hibernian,Hibernian,Hibernian,,,Scottish Premier
+Inverness CT,Inverness CT,Inverness CT,,,Scottish Premier
+Kilmanock,Kilmanock,Kilmanock,,,Scottish Premier
+Motherwell,Motherwell,Motherwell,,,Scottish Premier
+Patick Thistle,Patick Thistle,Patick Thistle,,,Scottish Premier
+Ross County,Ross County,Ross County,,,Scottish Premier
+St.Johnstone,St.Johnstone,St.Johnstone,,,Scottish Premier
+St.Mirren,St.Mirren,St.Mirren,,,Scottish Premier
+Amkar Perm,Amkar Perm,Amkar Perm,,,Russian Premier
+Anzhi Makhachkala,Anzhi Makhachkala,,,,Russian Premier
+CSKA Moscow,CSKA Moscow,CSKA Moscow,,,Russian Premier
+FC Alania Vladikavkaz,FC Alania Vladikavkaz,,,,Russian Premier
+Dynamo Moscow,Dynamo Moscow,Dynamo Moscow,,,Russian Premier
+Moscow,Moscow,Moscow,,,Russian Premier
+Rostov,Rostov,Rostov,,,Russian Premier
+Spartak Moscow,Spartak Moscow,Spartak Moscow,,,Russian Premier
+Krylia Sovetov Samara,Krylia Sovetov Samara,,,,Russian Premier
+Lokomotiv Moscow,Lokomotiv Moscow,Lokomotiv Moscow,,,Russian Premier
+Rubin Kazan,Rubin Kazan,Rubin Kazan,,,Russian Premier
+Saturn Moscow Oblast,Saturn Moscow Oblast,,,,Russian Premier
+Sibir Novosibirsk,Sibir Novosibirsk,Sibir Novosibirsk,,,Russian Premier
+Spartak Nalchik,Spartak Nalchik,Spartak Nalchik,,,Russian Premier
+Terek Grozny,Terek Grozny,Terek Grozny,,,Russian Premier
+Tom Tomsk,Tom Tomsk,Tom Tomsk,,,Russian Premier
+Zenit St Petersburg,Zenit St Petersburg,Zenit St Petersburg,,,Russian Premier
+Argentinos Juniors,Argentinos Juniors,Argentinos Juniors,,,Argentina Premier
+ Atlético Tucumán, Atlético Tucumán, Atlético Tucumán,,,Argentina Premier
+Arsenal de Sarandi,Arsenal de Sarandi,Arsenal de Sarandi,,,Argentina Premier
+Banfield,Banfield,Banfield,,,Argentina Premier
+Boca Juniors,Boca Juniors,Boca Juniors,,,Argentina Premier
+Chacarita Juniors,Chacarita Juniors,Chacarita Juniors,,,Argentina Premier
+Colon,Colon,Colon,,,Argentina Premier
+Estudiantes,Estudiantes,Estudiantes,,,Argentina Premier
+Gimnasia y Esgrima La Plata,Gimnasia y Esgrima La Plata,,,,Argentina Premier
+Godoy Cruz,Godoy Cruz,Godoy Cruz,,,Argentina Premier
+Huracan,Huracan,Huracan,,,Argentina Premier
+Independiente,Independiente,Independiente,,,Argentina Premier
+Lanus,Lanus,Lanus,,,Argentina Premier
+Newell's Old Boys,Newell's Old Boys,Newell's Old Boys,,,Argentina Premier
+Racing Club,Racing Club,Racing Club,,,Argentina Premier
+River Plater,River Plater,River Plater,,,Argentina Premier
+Rosario Central,Rosario Central,Rosario Central,,,Argentina Premier
+San Lorenzo de Almagro,San Lorenzo de Almagro,,,,Argentina Premier
+Tigres ,Tigres ,Tigres ,,,Argentina Premier
+Vélez Sársfield,Vélez Sársfield,Vélez Sársfield,,,Argentina Premier
+Atlanta Silverbacks,Atlanta Silverbacks,Atlanta Silverbacks,ATL,,North American
+Carolina RailHawks,Carolina RailHawks,Carolina RailHawks,CAR,,North American
+FC Edmonton,FC Edmonton,FC Edmonton,FCE,,North American
+Fort Lauderdale Strikers,Fort Lauderdale Strikers,,FTL,,North American
+Minnesota United,Minnesota United,Minnesota United,MNU,,North American
+New York Cosmos,New York Cosmos,New York Cosmos,NYC,,North American
+Puerto Rico Islanders,Puerto Rico Islanders,,,,North American
+San Antonio Scorpions ,San Antonio Scorpions ,,SAS,,North American
+INDY ELEVEN,INDY ELEVEN,INDY ELEVEN,IND,,North American
+Ottawa Fury FC,Ottawa Fury FC,Ottawa Fury FC,FUR,,North American
+Jacksonville Armada FC,Jacksonville Armada FC,,,,North American
+Tampa Bay Rowdies,Tampa Bay Rowdies,,TBR,,North American
+Fire,Fire,Fire,CHI,,MLS
+Chivas,Chivas,Chivas,CHV,,MLS
+Rapids,Rapids,Rapids,COL,,MLS
+Crew,Crew,Crew,CLB,,MLS
+DC United,DC United,DC United,DC,,MLS
+FC Dallas,FC Dallas,FC Dallas,DAL,,MLS
+Dynamo,Dynamo,Dynamo,HOU,,MLS
+Galaxy,Galaxy,Galaxy,LA,,MLS
+Montreal,Montreal,Montreal,MTL,,MLS
+New England Revs,New England Revs,New England Revs,NE,,MLS
+New York City FC,New York City FC,New York City FC,,,MLS
+REd Bulls,Red Bulls,Red Bulls,NY,,MLS
+Philadelphia,Philadelphia,Philadelphia,PHI,,MLS
+Portland Timbers,Portland Timbers,Portland Timbers,POR,,MLS
+Real Salt Lake,Real Salt Lake,Real Salt Lake,RSL,,MLS
+San Jose Quakes,San Jose Quakes,San Jose Quakes,SJ,,MLS
+Seattle Sounders,Seattle Sounders,Seattle Sounders,SEA,,MLS
+Sporting KC,Sporting KC,Sporting KC,SKC,,MLS
+Toronto,Toronto,Toronto,TOR,,MLS
+Whitecaps,Whitecaps,Whitecaps,VAN,,MLS
+AFC Wimbledon,AFC Wimbledon,AFC Wimbledon,,,League Two
+Accrington Stanley,Accrington Stanley, Accrington Stanley,,,League Two
+Bristol Rovers,Bristol Rovers, Bristol Rovers,,,League Two
+Burton Albion,Burton Albion, Burton Albion,,,League Two
+Bury,Bury, Bury,,,League Two
+Cheltenham Town,Cheltenham Town, Cheltenham Town,,,League Two
+Chesterfield,Chesterfield, Chesterfield,,,League Two
+Dagenham & Redbridge,Dagenham & Redbridge,,,,League Two
+Exeter City,Exeter City, Exeter City,,,League Two
+Fleetwood Town,Fleetwood Town, Fleetwood Town,,,League Two
+Hartlepool United,Hartlepool United, Hartlepool United,,,League Two
+Mansfield Town,Mansfield Town, Mansfield Town,,,League Two
+Morecame,Morecame, Morecambe,,,League Two
+Newport County,Newport County, Newport County,,,League Two
+Northampton Town,Northampton Town, Northampton Town,,,League Two
+Oxford United,Oxford United, Oxford United,,,League Two
+Plymouth Argyle,Plymouth Argyle, Plymouth Argyle,,,League Two
+Portsmouth,Portsmouth, Portsmouth,,,League Two
+Rochdale,Rochdale, Rochdale,,,League Two
+Scunthorpe,Scunthorpe, Scunthorpe,,,League Two
+Southend United,Southend United, Southend United,,,League Two
+Torquay United,Torquay United, Torquay United,,,League Two
+Wycombe Wanderers,Wycombe Wanderers,,,,League Two
+York City,York City, York City,,,League Two
+Bradford City,Bradford City,Bradford City,,,League One
+ Gillingham, Gillingham, Gillingham,,,League One
+ Leyton Orient, Leyton Orient, Leyton Orient,,,League One
+ Milton Keynes, Milton Keynes, Milton Keynes,,,League One
+ Notts County, Notts County, Notts County,,,League One
+ Brentford, Brentford, Brentford,,,League One
+ Bristol City, Bristol City, Bristol City,,,League One
+ Carlisle United, Carlisle United, Carlisle United,,,League One
+ Colchester United, Colchester United, Colchester United,,,League One
+ Coventry City, Coventry City, Coventry City,,,League One
+ Crawley Town, Crawley Town, Crawley Town,,,League One
+ Crewe Alexandra, Crewe Alexandra, Crewe Alexandra,,,League One
+ Oldham Athletic, Oldham Athletic, Oldham Athletic,,,League One
+ Peterborough United, Peterborough United,,,,League One
+ Port Vale, Port Vale, Port Vale,,,League One
+ Preston North End, Preston North End, Preston North End,,,League One
+ Rotherham United, Rotherham United, Rotherham United,,,League One
+ Sheffield United, Sheffield United, Sheffield United,,,League One
+ Shrewsbury Town, Shrewsbury Town, Shrewsbury Town,,,League One
+ Stevenage, Stevenage, Stevenage,,,League One
+ Swindon Town, Swindon Town, Swindon Town,,,League One
+ Tranmere Rovers, Tranmere Rovers, Tranmere Rovers,,,League One
+ Walsall, Walsall, Walsall,,,League One
+ Wolves, Wolves, Wolves,,,League One
+ Afghanistan, Afghanistan, Afghanistan,,,International
+ Albania, Albania, Albania,,,International
+ Algeria, Algeria, Algeria,ALG,,International
+ American Samoa, American Samoa, American Samoa,,,International
+ Andorra, Andorra, Andorra,,,International
+ Angola, Angola, Angola,,,International
+ Anguilla, Anguilla, Anguilla,,,International
+ Antigua and Barbuda, Antigua and Barbuda,,,,International
+ Argentina, Argentina, Argentina,ARG,,International
+ Armenia, Armenia, Armenia,,,International
+ Aruba, Aruba, Aruba,,,International
+ Australia, Australia, Australia,AUS,,International
+ Austria, Austria, Austria,,,International
+ Azerbaijan, Azerbaijan, Azerbaijan,,,International
+ Bahamas, Bahamas, Bahamas,,,International
+ Bahrain, Bahrain, Bahrain,,,International
+ Bangladesh, Bangladesh, Bangladesh,,,International
+ Barbados, Barbados, Barbados,,,International
+ Belarus, Belarus, Belarus,,,International
+ Belgium, Belgium, Belgium,BEL,,International
+ Belize, Belize, Belize,,,International
+ Benin, Benin, Benin,,,International
+ Bermuda, Bermuda, Bermuda,,,International
+ Bhutan, Bhutan, Bhutan,,,International
+ Bolivia, Bolivia, Bolivia,,,International
+ Bonaire, Bonaire, Bonaire,,,International
+ Bosnia-Herzegovina, Bosnia-Herzegovina,,BIH,,International
+ Botswana, Botswana, Botswana,,,International
+ Brazil, Brazil, Brazil,BRA,,International
+ British Virgin Islands, British Virgin Islands,,,,International
+ Brunei, Brunei, Brunei,,,International
+ Bulgaria, Bulgaria, Bulgaria,,,International
+ Burkina Faso, Burkina Faso, Burkina Faso,,,International
+ Burundi, Burundi, Burundi,,,International
+ Cambodia, Cambodia, Cambodia,,,International
+ Cameroon, Cameroon, Cameroon,CMR,,International
+ Canada, Canada, Canada,,,International
+ Cape Verde, Cape Verde, Cape Verde,,,International
+ Cayman Islands, Cayman Islands, Cayman Islands,,,International
+ Central African Republic, Central African Republic,,,,International
+ Chad, Chad, Chad,,,International
+ Chile, Chile, Chile,CHI,,International
+ China PR, China PR, China PR,,,International
+ Chinese Taipei, Chinese Taipei, Chinese Taipei,,,International
+ Colombia, Colombia, Colombia,COL,,International
+ Comoros, Comoros, Comoros,,,International
+ Congo, Congo, Congo,,,International
+ Congo DR, Congo DR, Congo DR,,,International
+ Cook Islands, Cook Islands, Cook Islands,,,International
+ Costa Rica, Costa Rica, Costa Rica,CRC,,International
+ Croatia, Croatia, Croatia,CRO,,International
+ Cuba, Cuba, Cuba,,,International
+ Curaçao, Curaçao, Curaçao,,,International
+ Cyprus, Cyprus, Cyprus,,,International
+ Czech Republic, Czech Republic, Czech Republic,,,International
+ Denmark, Denmark, Denmark,,,International
+ Djibouti, Djibouti, Djibouti,,,International
+ Dominica, Dominica, Dominica,,,International
+ Dominican Republic, Dominican Republic,,,,International
+ East Timor, East Timor, East Timor,,,International
+ Ecuador, Ecuador, Ecuador,ECU,,International
+ Egypt, Egypt, Egypt,,,International
+ El Salvador, El Salvador, El Salvador,,,International
+ England, England, England,ENG,,International
+ Equatorial Guinea, Equatorial Guinea, Equatorial Guinea,,,International
+ Eritrea, Eritrea, Eritrea,,,International
+ Estonia, Estonia, Estonia,,,International
+ Ethiopia, Ethiopia, Ethiopia,,,International
+ Faroe Islands, Faroe Islands, Faroe Islands,,,International
+ Fiji, Fiji, Fiji,,,International
+ Finland, Finland, Finland,,,International
+ France, France, France,FRA,,International
+ French Guiana, French Guiana, French Guiana,,,International
+ Gabon, Gabon, Gabon,,,International
+ Gambia, Gambia, Gambia,,,International
+ Georgia, Georgia, Georgia,,,International
+ Germany, Germany, Germany,GER,,International
+ Ghana, Ghana, Ghana,GHA,,International
+ Gibraltar, Gibraltar, Gibraltar,,,International
+ Greece, Greece, Greece,GRE,,International
+ Grenada, Grenada, Grenada,,,International
+ Guadeloupe, Guadeloupe, Guadeloupe,,,International
+ Guam, Guam, Guam,,,International
+ Guatemala, Guatemala, Guatemala,,,International
+ Guinea, Guinea, Guinea,,,International
+ Guinea-Bissau, Guinea-Bissau, Guinea-Bissau,,,International
+ Guyana, Guyana, Guyana,,,International
+ Haiti, Haiti, Haiti,,,International
+ Honduras, Honduras, Honduras,HON,,International
+ Hong Kong, Hong Kong, Hong Kong,,,International
+ Hungary, Hungary, Hungary,,,International
+ Iceland, Iceland, Iceland,,,International
+ India, India, India,,,International
+ Indonesia, Indonesia, Indonesia,,,International
+ Iran, Iran, Iran,IRN,,International
+ Iraq, Iraq, Iraq,,,International
+ Ireland, Ireland, Ireland,,,International
+ Israel, Israel, Israel,,,International
+ Italy, Italy, Italy,ITA,,International
+ Ivory Coast, Ivory Coast, Ivory Coast,,,International
+ Jamaica, Jamaica, Jamaica,,,International
+ Japan, Japan, Japan,JPN,,International
+ Jordan, Jordan, Jordan,,,International
+ Kazakhstan, Kazakhstan, Kazakhstan,,,International
+ Kenya, Kenya, Kenya,,,International
+ Kosovo, Kosovo, Kosovo,,,International
+ Kuwait, Kuwait, Kuwait,,,International
+ Kyrgyzstan, Kyrgyzstan, Kyrgyzstan,,,International
+ Laos, Laos, Laos,,,International
+ Latvia, Latvia, Latvia,,,International
+ Lebanon, Lebanon, Lebanon,,,International
+ Lesotho, Lesotho, Lesotho,,,International
+ Liberia, Liberia, Liberia,,,International
+ Libya, Libya, Libya,,,International
+ Liechtenstein, Liechtenstein, Liechtenstein,,,International
+ Lithuania, Lithuania, Lithuania,,,International
+ Luxembourg, Luxembourg, Luxembourg,,,International
+ Macau, Macau, Macau,,,International
+ Macedonia, Macedonia, Macedonia,,,International
+ Madagascar, Madagascar, Madagascar,,,International
+ Malawi, Malawi, Malawi,,,International
+ Malaysia, Malaysia, Malaysia,,,International
+ Maldives, Maldives, Maldives,,,International
+ Mali, Mali, Mali,,,International
+ Malta, Malta, Malta,,,International
+ Martinique, Martinique, Martinique,,,International
+ Mauritania, Mauritania, Mauritania,,,International
+ Mauritius, Mauritius, Mauritius,,,International
+ Mexico, Mexico, Mexico,MEX,,International
+ Moldova, Moldova, Moldova,,,International
+ Mongolia, Mongolia, Mongolia,,,International
+ Montenegro, Montenegro, Montenegro,,,International
+ Montserrat, Montserrat, Montserrat,,,International
+ Morocco, Morocco, Morocco,,,International
+ Mozambique, Mozambique, Mozambique,,,International
+ Myanmar, Myanmar, Myanmar,,,International
+ Namibia, Namibia, Namibia,,,International
+ Nepal, Nepal, Nepal,,,International
+ Netherlands, Netherlands, Netherlands,NED,,International
+ New Caledonia, New Caledonia, New Caledonia,,,International
+ New Zealand, New Zealand, New Zealand,,,International
+ Nicaragua, Nicaragua, Nicaragua,,,International
+ Niger, Niger, Niger,,,International
+ Nigeria, Nigeria, Nigeria,NGA,,International
+ North Korea, North Korea, North Korea,,,International
+ Northern Ireland, Northern Ireland, Northern Ireland,,,International
+ Norway, Norway, Norway,,,International
+ Oman, Oman, Oman,,,International
+ Pakistan, Pakistan, Pakistan,,,International
+ Palestine, Palestine, Palestine,,,International
+ Panama, Panama, Panama,,,International
+ Papua New Guinea, Papua New Guinea, Papua New Guinea,,,International
+ Paraguay, Paraguay, Paraguay,,,International
+ Peru, Peru, Peru,,,International
+ Philippines, Philippines, Philippines,,,International
+ Poland, Poland, Poland,,,International
+ Portugal, Portugal, Portugal,POR,,International
+ Puerto Rico, Puerto Rico, Puerto Rico,,,International
+ Qatar, Qatar, Qatar,,,International
+ Romania, Romania, Romania,,,International
+ Russia, Russia, Russia,RUS,,International
+ Rwanda, Rwanda, Rwanda,,,International
+ Réunion, Réunion, Réunion,,,International
+ Saint Kitts and Nevis, Saint Kitts and Nevis,,,,International
+ Saint Lucia, Saint Lucia, Saint Lucia,,,International
+ Saint Vincent and the Grenadines, Saint Vincent and the Grenadines,,,,International
+ Samoa, Samoa, Samoa,,,International
+ San Marino, San Marino, San Marino,,,International
+ Saudi Arabia, Saudi Arabia, Saudi Arabia,,,International
+ Scotland, Scotland, Scotland,,,International
+ Senegal, Senegal, Senegal,,,International
+ Serbia, Serbia, Serbia,,,International
+ Seychelles, Seychelles, Seychelles,,,International
+ Sierra Leone, Sierra Leone, Sierra Leone,,,International
+ Singapore, Singapore, Singapore,,,International
+ Sint Maarten, Sint Maarten, Sint Maarten,,,International
+ Slovakia, Slovakia, Slovakia,,,International
+ Slovenia, Slovenia, Slovenia,,,International
+ Solomon Islands, Solomon Islands, Solomon Islands,,,International
+ Somalia, Somalia, Somalia,,,International
+ South Africa, South Africa, South Africa,,,International
+ South Korea, South Korea, South Korea,KOR,,International
+ South Sudan, South Sudan, South Sudan,,,International
+ Spain, Spain, Spain,ESP,,International
+ Sri Lanka, Sri Lanka, Sri Lanka,,,International
+ Sudan, Sudan, Sudan,,,International
+ Suriname, Suriname, Suriname,,,International
+ Swaziland, Swaziland, Swaziland,,,International
+ Sweden, Sweden, Sweden,,,International
+ Switzerland, Switzerland, Switzerland,SUI,,International
+ Syria, Syria, Syria,,,International
+ São Tomé and Príncipe, São Tomé and Príncipe,,,,International
+ Tahiti, Tahiti, Tahiti,,,International
+ Tajikistan, Tajikistan, Tajikistan,,,International
+ Tanzania, Tanzania, Tanzania,,,International
+ Thailand, Thailand, Thailand,,,International
+ Togo, Togo, Togo,,,International
+ Tonga, Tonga, Tonga,,,International
+ Trinidad and Tobago, Trinidad and Tobago,,,,International
+ Tunisia, Tunisia, Tunisia,,,International
+ Turkey, Turkey, Turkey,,,International
+ Turkmenistan, Turkmenistan, Turkmenistan,,,International
+ Turks and Caicos Islands, Turks and Caicos Islands,,,,International
+ Tuvalu, Tuvalu, Tuvalu,,,International
+ U.S. Virgin Islands, U.S. Virgin Islands, U.S. Virgin Islands,,,International
+ Uganda, Uganda, Uganda,,,International
+ Ukraine, Ukraine, Ukraine,,,International
+ United Arab Emirates, United Arab Emirates,,,,International
+ United States, United States, United States,USA,,International
+ Uruguay, Uruguay, Uruguay,URU,,International
+ Uzbekistan, Uzbekistan, Uzbekistan,,,International
+ Vanuatu, Vanuatu, Vanuatu,,,International
+ Venezuela, Venezuela, Venezuela,,,International
+ Vietnam, Vietnam, Vietnam,,,International
+ Wales, Wales, Wales,,,International
+ Yemen, Yemen, Yemen,,,International
+ Zambia, Zambia, Zambia,,,International
+ Zanzibar, Zanzibar, Zanzibar,,,International
+ Zimbabwe, Zimbabwe, Zimbabwe,,,International
+Chirag United,Chirag United,Chirag United,,,Indian
+ Churchill Brothers, Churchill Brothers, Churchill Brothers,,,Indian
+ Dempo, Dempo, Dempo,,,Indian
+ East Bengal Club, East Bengal Club, East Bengal Club,,,Indian
+ JSW Bangalore, JSW Bangalore, JSW Bangalore,,,Indian
+ Mohammedan Sporting Club, Mohammedan Sporting Club,,,,Indian
+ Mohun Bagan, Mohun Bagan, Mohun Bagan,,,Indian
+ Mumbai FC, Mumbai FC, Mumbai FC,,,Indian
+ Mumbai Tigers FC, Mumbai Tigers FC, Mumbai Tigers FC,,,Indian
+ Pailan Arrows FC, Pailan Arrows FC, Pailan Arrows FC,,,Indian
+ Prayag United FC, Prayag United FC, Prayag United FC,,,Indian
+ Pune FC, Pune FC, Pune FC,,,Indian
+ Rangdajied United FC, Rangdajied United FC,,,,Indian
+ Salgaocar FC, Salgaocar FC, Salgaocar FC,,,Indian
+ Shillong Lajong FC, Shillong Lajong FC, Shillong Lajong FC,,,Indian
+ Sporting Clube de Goa, Sporting Clube de Goa,,,,Indian
+ADO Den Haag,ADO Den Haag,ADO Den Haag,,,EREDIVISIE
+ AZ Alkmaar, AZ Alkmaar, AZ Alkmaar,AZ,,EREDIVISIE
+ Ajax, Ajax, Ajax,,,EREDIVISIE
+ Groningen, Groningen, Groningen,,,EREDIVISIE
+ Twente, Twente, Twente,,,EREDIVISIE
+ Utrecht, Utrecht, Utrecht,,,EREDIVISIE
+ Feyenoord, Feyenoord, Feyenoord,,,EREDIVISIE
+ Go Ahead Eagles, Go Ahead Eagles, Go Ahead Eagles,,,EREDIVISIE
+ Heracles Almelo, Heracles Almelo, Heracles Almelo,,,EREDIVISIE
+ NAC Breda, NAC Breda, NAC Breda,NAC,,EREDIVISIE
+ NEC Nijmegen, NEC Nijmegen, NEC Nijmegen,NEC,,EREDIVISIE
+ PSV Eindhoven, PSV Eindhoven, PSV Eindhoven,PSV,,EREDIVISIE
+ RKC Waalwijk, RKC Waalwijk, RKC Waalwijk,,,EREDIVISIE
+ Roda JC, Roda JC, Roda JC,,,EREDIVISIE
+ Cambuur, Cambuur, Cambuur,,,EREDIVISIE
+ Heerenveen, Heerenveen, Heerenveen,,,EREDIVISIE
+ Vitesse Arnhem, Vitesse Arnhem, Vitesse Arnhem,,,EREDIVISIE
+ Zwolle, Zwolle, Zwolle,,,EREDIVISIE
+ Bayer Leverkusen, Bayer Leverkusen, Bayer Leverkusen,,,BUNDESLIGA
+ Dortmund, Dortmund, Dortmund,,,BUNDESLIGA
+ Monchengladbach, Monchengladbach, Monchengladbach,,,BUNDESLIGA
+ Eintracht Braunschweig, Eintracht Braunschweig,,,,BUNDESLIGA
+ Eintracht Frankfurt, Eintracht Frankfurt, Eintracht Frankfurt,,,BUNDESLIGA
+ FC Augsburg, FC Augsburg, FC Augsburg,,,BUNDESLIGA
+ Bayern Munich, Bayern Munich, Bayern Munich,,,BUNDESLIGA
+ FC Nürnberg, FC Nürnberg, FC Nürnberg,,,BUNDESLIGA
+ FSV Mainz 05, FSV Mainz 05, FSV Mainz 05,,,BUNDESLIGA
+ Hamburg SV, Hamburg SV, Hamburg SV,,,BUNDESLIGA
+ Hannover 96, Hannover 96, Hannover 96,,,BUNDESLIGA
+ Hertha BSC, Hertha BSC, Hertha BSC,,,BUNDESLIGA
+ SC Freiburg, SC Freiburg, SC Freiburg,,,BUNDESLIGA
+ Schalke 04, Schalke 04, Schalke 04,,,BUNDESLIGA
+ TSG Hoffenheim, TSG Hoffenheim, TSG Hoffenheim,,,BUNDESLIGA
+ VfB Stuttgart, VfB Stuttgart, VfB Stuttgart,,,BUNDESLIGA
+ VfL Wolfsburg, VfL Wolfsburg, VfL Wolfsburg,,,BUNDESLIGA
+ Werder Bremen, Werder Bremen, Werder Bremen,,,BUNDESLIGA
+ Barnsley, Barnsley, Barnsley,,,League Champion
+ Birmingham, Birmingham, Birmingham,,,League Champion
+Team Stream,Team Stream,Team Stream,,,League Champion
+ Blackburn, Blackburn, Blackburn,,,League Champion
+Team Stream,Team Stream,Team Stream,,,League Champion
+ Blackpool, Blackpool, Blackpool,,,League Champion
+ Bolton, Bolton, Bolton,,,League Champion
+Team Stream,Team Stream,Team Stream,,,League Champion
+ Bournemouth, Bournemouth, Bournemouth,,,League Champion
+ Brighton & Hove Albion, Brighton & Hove Albion,,,,League Champion
+ Burnley, Burnley, Burnley,,,League Champion
+ Charlton Athletic, Charlton Athletic, Charlton Athletic,,,League Champion
+ Derby County, Derby County, Derby County,,,League Champion
+ Doncaster Rovers, Doncaster Rovers, Doncaster Rovers,,,League Champion
+ Huddersfield Town, Huddersfield Town, Huddersfield Town,,,League Champion
+ Ipswich Town, Ipswich Town, Ipswich Town,,,League Champion
+ Leeds United, Leeds United, Leeds United,,,League Champion
+ Leicester City, Leicester City, Leicester City,,,League Champion
+ Middlesbrough, Middlesbrough, Middlesbrough,,,League Champion
+ Millwall, Millwall, Millwall,,,League Champion
+ Nottingham Forest, Nottingham Forest, Nottingham Forest,,,League Champion
+ Queens Park Rangers, Queens Park Rangers,,,,League Champion
+ Reading, Reading, Reading,,,League Champion
+ Sheffield Wednesday, Sheffield Wednesday,,,,League Champion
+ Watford, Watford, Watford,,,League Champion
+ Wigan Athletic, Wigan Athletic, Wigan Athletic,,,League Champion
+ Yeovil Town, Yeovil Town, Yeovil Town,,,League Champion
+ Adelaide United, Adelaide United, Adelaide United,ADU,,Austrlian
+ Brisbane Roar, Brisbane Roar, Brisbane Roar,BNR,,Austrlian
+ Central Coast Mariners, Central Coast Mariners,,CCM,,Austrlian
+ Melbourne Heart, Melbourne Heart, Melbourne Heart,MBC,,Austrlian
+ Melbourne Victory, Melbourne Victory, Melbourne Victory,MBV,,Austrlian
+ Newcastle Jets, Newcastle Jets, Newcastle Jets,NUJ,,Austrlian
+ Perth Glory, Perth Glory, Perth Glory,PTH,,Austrlian
+ Sydney FC, Sydney FC, Sydney FC,SFC,,Austrlian
+ Wellington Phoenix, Wellington Phoenix, Wellington Phoenix,WPX,,Austrlian
+ WS Wanderers, WS Wanderers, WS Wanderers,WSW,,Austrlian
